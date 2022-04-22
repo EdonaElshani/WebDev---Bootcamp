@@ -10,3 +10,12 @@ p{
 .accordion-button{
     font-size: .7em;
 }
+.card img{
+    width: 10em;
+}
+.social-media ion-icon{
+    font-size: 1.5em;
+}
+.address-info p{
+    border-bottom: 1px solid #ccc;
+}
